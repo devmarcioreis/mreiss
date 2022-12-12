@@ -1,9 +1,9 @@
-function App() {
+const App = () => {
   return (
-    <div className="App">
+    <div className='App'>
       Portfólio Márcio Reis
     </div>
   )
 }
 
-export default App
+export default App;
