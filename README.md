@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-https://devmarcioreis.github.io/mreiss/
+Em desenvolvimento: https://devmarcioreis.github.io/mreiss/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
