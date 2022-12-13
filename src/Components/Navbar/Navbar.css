@@ -1,0 +1,43 @@
+.nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    height: 7vh;
+    padding: 5px;
+}
+.nav-left {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    gap: 2rem;
+}
+.nav-name {
+    font-size: 1.3rem;
+    font-weight: 900;
+}
+.nav-name span {
+    color: var(--orange-color);
+}
+.nav-right {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.nav-list {
+    flex: 10;
+}
+.nav-list ul {
+    display: flex;
+    gap: 2rem;
+    margin-right: 4rem;
+}
+.nav-list ul li {
+    font-weight: 500;
+}
+.nav-list ul li:hover {
+    cursor: pointer;
+    color: var(--orange-color);
+}
+.nav-button {
+    flex: 2;
+}
