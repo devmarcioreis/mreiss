@@ -9,7 +9,7 @@ import { FaReact } from 'react-icons/fa'
 
 const Intro = () => {
   return (
-    <div className='intro'>
+    <div className='App intro'>
       <div className="intro-left">
         <div className="intro-name">
           <span>Oi, eu sou</span>

@@ -1,8 +1,9 @@
 .nav-wrapper {
     display: flex;
     justify-content: space-between;
-    height: 7vh;
-    padding: 5px;
+    height: 10vh;
+    padding: 0 20px;
+    box-shadow: var(--boxShadow);
 }
 .nav-left {
     display: flex;
