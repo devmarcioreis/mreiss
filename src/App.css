@@ -18,6 +18,7 @@
   --color: #360A3D;
   --color1: #884138;
   --color2: #C07883;
+  --first-color: #6025e5;
   --white-color: #fff;
   --gray-color: #788097;
   --blueCard-color: #DDF8FE;
@@ -34,7 +35,7 @@
 }
 
 .button {
-  border-radius: 34px;
+  border-radius: 5px;
   color: #fff;
   cursor: pointer;
   font-weight: 600;
@@ -42,8 +43,8 @@
   letter-spacing: 2px;
   font-size: 16px;
   padding: 11px 20px;
-  background: linear-gradient(180deg, var(--color2) 26.71%, var(--color1) 99.36%);
+  background: var(--first-color);
 }
 .button:hover {
-  background: var(--color2);
+  background: var(--orange-color);
 }

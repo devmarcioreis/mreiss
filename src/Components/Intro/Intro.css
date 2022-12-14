@@ -1,0 +1,45 @@
+.intro {
+    display: flex;
+    height: 77vh;
+    margin-block-start: 6rem;
+}
+.intro-left {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.intro-name {
+    display: flex;
+    flex-direction: column;
+}
+.intro-name>:nth-child(1) {
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.intro-name>:nth-child(2) {
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 2rem;
+}
+.intro-name>:nth-child(3) {
+    color: var(--first-color);
+    font-weight: bold;
+    letter-spacing: 3px;
+    margin-block-end: 10px;
+}
+.intro-name p {
+    font-size: 14px;
+    color: var(--gray-color);
+    margin: 10px 0;
+}
+.intro-icons {
+    font-size: 25px;
+    margin-block-end: 10px;
+}
+.intro-button {
+    width: 12rem;
+}
+.intro-right {
+    flex: 1;
+}
