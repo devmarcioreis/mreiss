@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mreiss/static/css/main.32f037ed.css",
-    "main.js": "/mreiss/static/js/main.46cbc8af.js",
+    "main.css": "/mreiss/static/css/main.ac2242e6.css",
+    "main.js": "/mreiss/static/js/main.a6948f75.js",
     "index.html": "/mreiss/index.html",
-    "main.32f037ed.css.map": "/mreiss/static/css/main.32f037ed.css.map",
-    "main.46cbc8af.js.map": "/mreiss/static/js/main.46cbc8af.js.map"
+    "main.ac2242e6.css.map": "/mreiss/static/css/main.ac2242e6.css.map",
+    "main.a6948f75.js.map": "/mreiss/static/js/main.a6948f75.js.map"
   },
   "entrypoints": [
-    "static/css/main.32f037ed.css",
-    "static/js/main.46cbc8af.js"
+    "static/css/main.ac2242e6.css",
+    "static/js/main.a6948f75.js"
   ]
 }
