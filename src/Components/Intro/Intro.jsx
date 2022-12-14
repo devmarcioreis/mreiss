@@ -15,7 +15,6 @@ const Intro = () => {
         </div>
         <button className="button intro-button">Fale comigo</button>
       </div>
-
       <div className="intro-right"></div>
     </div>
   )

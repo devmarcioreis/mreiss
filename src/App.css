@@ -13,8 +13,11 @@
 
 :root {
   --yellow-color: #F5C32C;
-  --orange-color: #FCA61F;
+  --orange-color: #E58F27;
   --black-color: #242D49;
+  --color: #360A3D;
+  --color1: #884138;
+  --color2: #C07883;
   --white-color: #fff;
   --gray-color: #788097;
   --blueCard-color: #DDF8FE;
@@ -39,8 +42,8 @@
   letter-spacing: 2px;
   font-size: 16px;
   padding: 11px 20px;
-  background: linear-gradient(180deg, #fdc50f 26.71%, #fb982f 99.36%);
+  background: linear-gradient(180deg, var(--color2) 26.71%, var(--color1) 99.36%);
 }
 .button:hover {
-  background: var(--orange-color);
+  background: var(--color2);
 }
