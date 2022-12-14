@@ -8,6 +8,7 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+    gap: 2rem;
 }
 .intro-name {
     display: flex;
@@ -31,14 +32,26 @@
 .intro-name p {
     font-size: 14px;
     color: var(--gray-color);
-    margin: 10px 0;
+    margin: 7px 0;
 }
 .intro-icons {
+    display: flex;
+    gap: 1rem;
     font-size: 25px;
-    margin-block-end: 10px;
+    margin-block-start: 10px;
 }
 .intro-button {
     width: 12rem;
+}
+.intro-social-icons {
+    display: flex;
+    gap: 1rem;
+    margin-block-start: 3rem;
+    font-size: 30px;
+    cursor: pointer;
+}
+.intro-social-icons a {
+    color: var(--orange-color);
 }
 .intro-right {
     flex: 1;

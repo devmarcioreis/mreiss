@@ -1,10 +1,11 @@
 import React from 'react'
 import './Intro.css'
 
-import { AiOutlineHtml5 } from 'react-icons/ai'
+import { AiOutlineHtml5, AiFillGithub, AiFillLinkedin } from 'react-icons/ai'
 import { DiCss3 } from 'react-icons/di'
 import { IoLogoJavascript } from 'react-icons/io'
 import { FaReact } from 'react-icons/fa'
+
 
 const Intro = () => {
   return (
@@ -25,6 +26,11 @@ const Intro = () => {
           </i>
         </div>
         <button className="button intro-button">Fale comigo</button>
+        <div className="intro-social-icons">
+          <a href="https://github.com/devmarcioreis" target='_blank' rel="noreferrer" ><AiFillGithub /></a>
+          <a href="https://www.linkedin.com/in/devmarcioreis/" target="_blank" rel="noreferrer" ><AiFillLinkedin /></a>
+
+        </div>
       </div>
       <div className="intro-right">
         marcio
