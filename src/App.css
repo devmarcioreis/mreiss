@@ -15,6 +15,7 @@
   --yellow-color: #F5C32C;
   --orange-color: #E58F27;
   --black-color: #242D49;
+  --bg-color: #FFF0E5;
   --color: #360A3D;
   --color1: #884138;
   --color2: #C07883;
@@ -28,10 +29,13 @@
   --smallBoxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
 }
 
+body {
+  overflow: hidden;
+  background: #000;
+  color: var(--white-color);
+}
 .App {
   padding: .5rem 5rem;
-  overflow: hidden;
-  color: var(--black-color);
 }
 
 .button {

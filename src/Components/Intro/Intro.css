@@ -51,8 +51,40 @@
     cursor: pointer;
 }
 .intro-social-icons a {
+    color: var(--first-color);
+}
+.intro-social-icons a:hover {
     color: var(--orange-color);
 }
 .intro-right {
+    position: relative;
     flex: 1;
+}
+.intro-right>* {
+    position: absolute;
+    z-index: 1;
+}
+.intro-right>:nth-child(2) {
+    transform: rotate(15deg);
+    top: 25%;
+    left: 75%;
+    width: 10%;
+}
+.intro-right>:nth-child(3) {
+    transform: rotate(-25deg);
+    top: 65%;
+    left: -10%;
+    width: 20%;
+}
+.intro-right>:nth-child(4) {
+    transform: rotate(-5deg);
+    top: 72%;
+    left: 65%;
+    width: 15%;
+}
+.intro-right>:nth-child(5) {
+    transform: rotate(-5deg);
+    top: 10%;
+    left: 5%;
+    width: 10%;
 }

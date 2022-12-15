@@ -15,7 +15,10 @@
     font-size: 1.3rem;
     font-weight: 900;
 }
-.nav-name span {
+.nav-name a {
+    color: var(--white-color);
+}
+.nav-name a span {
     color: var(--orange-color);
 }
 .nav-right {

@@ -5,6 +5,11 @@ import { AiOutlineHtml5, AiFillGithub, AiFillLinkedin } from 'react-icons/ai'
 import { DiCss3 } from 'react-icons/di'
 import { IoLogoJavascript } from 'react-icons/io'
 import { FaReact } from 'react-icons/fa'
+import Profile from '../../img/profile.png'
+import HTML from '../../img/html.png'
+import Crown from '../../img/crown.png'
+import Glassesimoji from '../../img/glassesimoji.png'
+import Thumbup from '../../img/thumbup.png'
 
 
 const Intro = () => {
@@ -33,7 +38,11 @@ const Intro = () => {
         </div>
       </div>
       <div className="intro-right">
-        marcio
+        <img src={Profile} alt="Imagem perfil" />
+        <img src={Crown} alt="Imagem perfil" />
+        <img src={Glassesimoji} alt="Imagem perfil" />
+        <img src={HTML} alt="Imagem perfil" />
+        <img src={Thumbup} alt="Imagem perfil" />
       </div>
     </div>
   )
