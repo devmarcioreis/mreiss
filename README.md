@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 Em desenvolvimento: https://devmarcioreis.github.io/mreiss/
-![image](https://user-images.githubusercontent.com/107413382/207898190-dd52bded-5e2d-4cab-baab-0e953e6a805c.png)
+![image](https://user-images.githubusercontent.com/107413382/207898190-dd52bded-5e2d-4cab-baab-0e953e6a805c.png)<br>
+useState
+useContext
+iconScout
+react-icons
+Framer Motion
+React smooth scroll
+css3
+Email js
+Swiper js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
