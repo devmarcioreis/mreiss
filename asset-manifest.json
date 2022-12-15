@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mreiss/static/css/main.486737c7.css",
-    "main.js": "/mreiss/static/js/main.d2b7efd6.js",
+    "main.css": "/mreiss/static/css/main.b7b4ce77.css",
+    "main.js": "/mreiss/static/js/main.d86c9a46.js",
     "static/media/profile.png": "/mreiss/static/media/profile.775c5f9c66e075bcf103.png",
-    "static/media/glassesimoji.png": "/mreiss/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/html.png": "/mreiss/static/media/html.9a17bb66e0209574393e.png",
-    "static/media/thumbup.png": "/mreiss/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/crown.png": "/mreiss/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/css.png": "/mreiss/static/media/css.82557827eacee60da8da.png",
+    "static/media/react.png": "/mreiss/static/media/react.4458987cc59156258cac.png",
+    "static/media/javascript.png": "/mreiss/static/media/javascript.38323140666580081f57.png",
+    "static/media/html.png": "/mreiss/static/media/html.c3acd6a9d41878125638.png",
     "index.html": "/mreiss/index.html",
-    "main.486737c7.css.map": "/mreiss/static/css/main.486737c7.css.map",
-    "main.d2b7efd6.js.map": "/mreiss/static/js/main.d2b7efd6.js.map"
+    "main.b7b4ce77.css.map": "/mreiss/static/css/main.b7b4ce77.css.map",
+    "main.d86c9a46.js.map": "/mreiss/static/js/main.d86c9a46.js.map"
   },
   "entrypoints": [
-    "static/css/main.486737c7.css",
-    "static/js/main.d2b7efd6.js"
+    "static/css/main.b7b4ce77.css",
+    "static/js/main.d86c9a46.js"
   ]
 }
