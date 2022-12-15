@@ -7,9 +7,9 @@ import { IoLogoJavascript } from 'react-icons/io'
 import { FaReact } from 'react-icons/fa'
 import Profile from '../../img/profile.png'
 import HTML from '../../img/html.png'
-import Crown from '../../img/crown.png'
-import Glassesimoji from '../../img/glassesimoji.png'
-import Thumbup from '../../img/thumbup.png'
+import Javascript from '../../img/javascript.png'
+import ReactJS from '../../img/react.png'
+import CSS from '../../img/css.png'
 
 
 const Intro = () => {
@@ -34,15 +34,14 @@ const Intro = () => {
         <div className="intro-social-icons">
           <a href="https://github.com/devmarcioreis" target='_blank' rel="noreferrer" ><AiFillGithub /></a>
           <a href="https://www.linkedin.com/in/devmarcioreis/" target="_blank" rel="noreferrer" ><AiFillLinkedin /></a>
-
         </div>
       </div>
       <div className="intro-right">
         <img src={Profile} alt="Imagem perfil" />
-        <img src={Crown} alt="Imagem perfil" />
-        <img src={Glassesimoji} alt="Imagem perfil" />
+        <img src={Javascript} alt="Imagem perfil" />
+        <img src={ReactJS} alt="Imagem perfil" />
         <img src={HTML} alt="Imagem perfil" />
-        <img src={Thumbup} alt="Imagem perfil" />
+        <img src={CSS} alt="Imagem perfil" />
       </div>
     </div>
   )

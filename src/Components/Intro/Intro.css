@@ -73,14 +73,14 @@
 .intro-right>:nth-child(3) {
     transform: rotate(-25deg);
     top: 65%;
-    left: -10%;
-    width: 20%;
+    left: -5%;
+    width: 12%;
 }
 .intro-right>:nth-child(4) {
     transform: rotate(-5deg);
     top: 72%;
     left: 65%;
-    width: 15%;
+    width: 12%;
 }
 .intro-right>:nth-child(5) {
     transform: rotate(-5deg);
