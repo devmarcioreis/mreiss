@@ -88,3 +88,25 @@
     left: 5%;
     width: 10%;
 }
+.circle1 {
+    position: absolute;
+    top: -20%;
+    left: 70%;
+    background: hsl(289, 49%, 63%);
+    width: 32rem;
+    height: 14rem;
+    border-radius: 50%;
+    filter: blur(170px);
+    z-index: -9;
+}
+.circle2 {
+    position: absolute;
+    top: 17rem;
+    left: -70rem;
+    background: hsl(190, 100%, 88%);
+    width: 32rem;
+    height: 14rem;
+    border-radius: 50%;
+    filter: blur(170px);
+    z-index: -9;
+}

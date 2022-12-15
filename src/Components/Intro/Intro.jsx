@@ -42,6 +42,8 @@ const Intro = () => {
         <img src={ReactJS} alt="Imagem perfil" />
         <img src={HTML} alt="Imagem perfil" />
         <img src={CSS} alt="Imagem perfil" />
+        <div className='circle1'></div>
+        <div className='circle2'></div>
       </div>
     </div>
   )
