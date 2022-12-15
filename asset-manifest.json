@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mreiss/static/css/main.b7b4ce77.css",
-    "main.js": "/mreiss/static/js/main.d86c9a46.js",
+    "main.css": "/mreiss/static/css/main.dcff69d8.css",
+    "main.js": "/mreiss/static/js/main.e0ce567e.js",
     "static/media/profile.png": "/mreiss/static/media/profile.775c5f9c66e075bcf103.png",
     "static/media/css.png": "/mreiss/static/media/css.82557827eacee60da8da.png",
     "static/media/react.png": "/mreiss/static/media/react.4458987cc59156258cac.png",
     "static/media/javascript.png": "/mreiss/static/media/javascript.38323140666580081f57.png",
     "static/media/html.png": "/mreiss/static/media/html.c3acd6a9d41878125638.png",
     "index.html": "/mreiss/index.html",
-    "main.b7b4ce77.css.map": "/mreiss/static/css/main.b7b4ce77.css.map",
-    "main.d86c9a46.js.map": "/mreiss/static/js/main.d86c9a46.js.map"
+    "main.dcff69d8.css.map": "/mreiss/static/css/main.dcff69d8.css.map",
+    "main.e0ce567e.js.map": "/mreiss/static/js/main.e0ce567e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7b4ce77.css",
-    "static/js/main.d86c9a46.js"
+    "static/css/main.dcff69d8.css",
+    "static/js/main.e0ce567e.js"
   ]
 }
