@@ -14,6 +14,7 @@ const About = () => {
             <p>Estudo Análise e Desenvolvimento de Sistemas, e também estou estudando e me aperfeiçoando em React e Angular.</p>
             <p>No momento trabalho como desenvolvedor Front-end freelancer.</p>
             <p>Aprendendo novas tecnologias, me preparando para o futuro na área que gosto, e sempre correspondendo com as expectativas e necessidades de meus clientes e amigos.</p>
+            <a href='https://github.com/devmarcioreis' target="_blank" rel="noreferrer" className="button about-button"><i class="uil uil-github"></i> Github</a>
         </div>
         <div className="cards">
             <div className='card1'>

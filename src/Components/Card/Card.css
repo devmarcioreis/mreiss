@@ -14,7 +14,7 @@
   padding: 0 16px;
 }
 .card img {
-    transform: scale(.6);
+    transform: scale(.8);
     margin-block-end: -2rem;
 }
 .card span:nth-of-type(1) {
