@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mreiss/static/css/main.81662c73.css",
-    "main.js": "/mreiss/static/js/main.6145c0c0.js",
+    "main.js": "/mreiss/static/js/main.f47e410f.js",
     "static/media/profile.png": "/mreiss/static/media/profile.775c5f9c66e075bcf103.png",
     "static/media/css.png": "/mreiss/static/media/css.82557827eacee60da8da.png",
     "static/media/curriculo.pdf": "/mreiss/static/media/curriculo.434830cf71581c5a512c.pdf",
@@ -13,10 +13,10 @@
     "static/media/glasses.png": "/mreiss/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/mreiss/index.html",
     "main.81662c73.css.map": "/mreiss/static/css/main.81662c73.css.map",
-    "main.6145c0c0.js.map": "/mreiss/static/js/main.6145c0c0.js.map"
+    "main.f47e410f.js.map": "/mreiss/static/js/main.f47e410f.js.map"
   },
   "entrypoints": [
     "static/css/main.81662c73.css",
-    "static/js/main.6145c0c0.js"
+    "static/js/main.f47e410f.js"
   ]
 }
