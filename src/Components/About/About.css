@@ -3,3 +3,22 @@
     height: 90vh;
     margin: 9rem 0;
 }
+.awesome {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.awesome span {
+    color: var(--first-color);
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.awesome p {
+    color: var(--gray-color);
+    font-size: 14px;
+    margin-block-start: .5rem;
+}
+.cards {
+    flex: 1;
+}

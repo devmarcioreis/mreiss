@@ -15,7 +15,13 @@ const About = () => {
             <p>Aprendendo novas tecnologias, me preparando para o futuro na área que gosto, e sempre correspondendo com as expectativas e necessidades de meus clientes e amigos.</p>
         </div>
         <div className="cards">
-            cards
+            <div>
+                <Card
+                    emoji = {Heart}
+                    heading = {'Design'}
+                    detail = {"Texto"}
+                />
+            </div>
         </div>
     </div>
   )
