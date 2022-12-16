@@ -7,6 +7,7 @@ const Card = ({emoji, heading, detail}) => {
         <img src={emoji} alt="Emoji" />
         <span>{heading}</span>
         <span>{detail}</span>
+        <div className='circle'></div>
     </div>
   )
 }
