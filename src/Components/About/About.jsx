@@ -20,22 +20,22 @@ const About = () => {
             <div className='card1'>
                 <Card
                     emoji = {Heart}
-                    heading = {'JavaScript'}
-                    detail = {"Hoje praticamente é a linguagem que mais utilizo."}
+                    heading = {'React'}
+                    detail = {"Gosto muito deste framework"}
                 />
             </div>
             <div className="card2">
             <Card
                     emoji = {Glasses}
                     heading = {'React'}
-                    detail = {"Estou em meus primeiros passos em React."}
+                    detail = {"A linguagem que mais utilizo"}
                 />
             </div>
             <div className="card3">
             <Card
                     emoji = {Humble}
                     heading = {'Angular'}
-                    detail = {"Cada vez mais me esforço para aprender sobre Angular."}
+                    detail = {"Aprendendo muito com este framework"}
                 />
             </div>
         </div>
