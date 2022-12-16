@@ -30,8 +30,8 @@
 }
 
 body {
-  overflow: hidden;
-  background: #000;
+  overflow-x: hidden;
+  background: hsl(0, 0%, 0%);
   color: var(--white-color);
 }
 .App {
@@ -50,5 +50,16 @@ body {
   background: var(--first-color);
 }
 .button:hover {
+  background: var(--orange-color);
+}
+
+::-webkit-scrollbar {
+  width: .4rem;
+  background: hsl(80, 4%, 15%);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--first-color);
+}
+::-webkit-scrollbar-thumb:hover {
   background: var(--orange-color);
 }

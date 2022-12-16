@@ -2,7 +2,8 @@
     display: flex;
     justify-content: space-between;
     height: 10vh;
-    padding: 0 20px;
+    width: 100vw;
+    padding: 0 40px;
 }
 .nav-left {
     display: flex;
