@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/mreiss/static/css/main.81662c73.css",
-    "main.js": "/mreiss/static/js/main.5c10ef1f.js",
+    "main.js": "/mreiss/static/js/main.ee9e29dd.js",
+    "static/media/space.png": "/mreiss/static/media/space.5f92b53c4067833b282a.png",
     "static/media/profile.png": "/mreiss/static/media/profile.775c5f9c66e075bcf103.png",
+    "static/media/rest.jpg": "/mreiss/static/media/rest.3ff7d8c2bc0d263fbbcd.jpg",
     "static/media/music.jpg": "/mreiss/static/media/music.b79090f60d82678bf713.jpg",
+    "static/media/sports.jpg": "/mreiss/static/media/sports.23250c9944f3cb97aa37.jpg",
     "static/media/css.png": "/mreiss/static/media/css.82557827eacee60da8da.png",
     "static/media/curriculo.pdf": "/mreiss/static/media/curriculo.434830cf71581c5a512c.pdf",
     "static/media/react.png": "/mreiss/static/media/react.4458987cc59156258cac.png",
@@ -14,10 +17,10 @@
     "static/media/glasses.png": "/mreiss/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/mreiss/index.html",
     "main.81662c73.css.map": "/mreiss/static/css/main.81662c73.css.map",
-    "main.5c10ef1f.js.map": "/mreiss/static/js/main.5c10ef1f.js.map"
+    "main.ee9e29dd.js.map": "/mreiss/static/js/main.ee9e29dd.js.map"
   },
   "entrypoints": [
     "static/css/main.81662c73.css",
-    "static/js/main.5c10ef1f.js"
+    "static/js/main.ee9e29dd.js"
   ]
 }
