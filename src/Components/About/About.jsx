@@ -16,11 +16,25 @@ const About = () => {
             <p>Aprendendo novas tecnologias, me preparando para o futuro na área que gosto, e sempre correspondendo com as expectativas e necessidades de meus clientes e amigos.</p>
         </div>
         <div className="cards">
-            <div>
+            <div className='card1'>
                 <Card
                     emoji = {Heart}
                     heading = {'JavaScript'}
-                    detail = {"Hoje praticamente utilizo o JavaScript em todos os projetos que desenvolvo"}
+                    detail = {"Hoje praticamente é a linguagem que mais utilizo."}
+                />
+            </div>
+            <div className="card2">
+            <Card
+                    emoji = {Glasses}
+                    heading = {'React'}
+                    detail = {"Estou em meus primeiros passos em React."}
+                />
+            </div>
+            <div className="card3">
+            <Card
+                    emoji = {Humble}
+                    heading = {'Angular'}
+                    detail = {"Cada vez mais me esforço para aprender sobre Angular."}
                 />
             </div>
         </div>

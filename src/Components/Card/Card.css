@@ -1,7 +1,7 @@
 .card {
   position: absolute;
   width: 15rem;
-  height: 20rem;
+  height: 16rem;
   display: flex;
   flex-direction: column;
   gap: .5rem;
@@ -12,4 +12,18 @@
   box-shadow: var(--boxShadow);
   border-radius: 20px;
   padding: 0 16px;
+}
+.card img {
+    transform: scale(.6);
+    margin-block-end: -2rem;
+}
+.card span:nth-of-type(1) {
+  color: var(--first-color);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.card span:nth-of-type(2) {
+    color: var(--white-color);
+    font-size: 17px;
 }
