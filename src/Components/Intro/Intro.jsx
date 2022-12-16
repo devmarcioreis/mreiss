@@ -14,7 +14,7 @@ import CSS from '../../img/css.png'
 
 const Intro = () => {
   return (
-    <div className='App intro'>
+    <div className='intro'>
       <div className="intro-left">
         <div className="intro-name">
           <span>Oi, eu sou</span>
