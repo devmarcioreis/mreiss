@@ -1,5 +1,6 @@
 import React from 'react'
 import './Navbar.css'
+import Resume from '../Resume/curriculo.pdf'
 
 const Navbar = () => {
   return (
@@ -15,7 +16,9 @@ const Navbar = () => {
             <li><i class="uil uil-bag"></i> Portfólio</li>
           </ul>
         </div>
-        <button className="button nav-button">Currículo</button>
+        <a href={Resume} download>
+          <button className="button nav-button">Currículo</button>
+        </a>
       </div>
     </div>
   )
