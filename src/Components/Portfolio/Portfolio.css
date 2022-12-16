@@ -1,0 +1,30 @@
+.portfolio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.portfolio h1 {
+    color: var(--first-color);
+    font-size: 2.5rem;
+    letter-spacing: .5rem;
+    font-weight: 200;
+}
+.portfolio span {
+    color: var(--gray-color);
+    font-size: 1.2rem;
+}
+.portfolio .swiper {
+    overflow: visible !important;
+}
+.portfolio-slider {
+    margin-block-start: 2rem;
+    width: 100%;
+}
+.portfolio-slider .swiper-slide {
+    width: 20rem;
+}
+.portfolio img {
+    width: 30rem;
+    border-radius: 19px;
+}
