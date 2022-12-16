@@ -4,6 +4,7 @@ import './About.css'
 import Glasses from '../../img/glasses.png'
 import Heart from '../../img/heart.png'
 import Humble from '../../img/humble.png'
+import Card from '../Card/Card'
 
 const About = () => {
   return (
@@ -18,8 +19,8 @@ const About = () => {
             <div>
                 <Card
                     emoji = {Heart}
-                    heading = {'Design'}
-                    detail = {"Texto"}
+                    heading = {'JavaScript'}
+                    detail = {"Hoje praticamente utilizo o JavaScript em todos os projetos que desenvolvo"}
                 />
             </div>
         </div>
