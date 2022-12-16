@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from 'swiper/react'
 import './Portfolio.css'
 
 import Music from '../../img/music.jpg'
-import Restautant from '../../img/restaurant.jpg'
+import Restautant from '../../img/rest.jpg'
 import Space from '../../img/space.png'
 import Sports from '../../img/sports.jpg'
 
