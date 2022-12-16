@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mreiss/static/css/main.83beda0f.css",
-    "main.js": "/mreiss/static/js/main.3f2fbbeb.js",
+    "main.css": "/mreiss/static/css/main.81662c73.css",
+    "main.js": "/mreiss/static/js/main.6145c0c0.js",
     "static/media/profile.png": "/mreiss/static/media/profile.775c5f9c66e075bcf103.png",
     "static/media/css.png": "/mreiss/static/media/css.82557827eacee60da8da.png",
     "static/media/curriculo.pdf": "/mreiss/static/media/curriculo.434830cf71581c5a512c.pdf",
@@ -12,11 +12,11 @@
     "static/media/heart.png": "/mreiss/static/media/heart.26b1b6ed5e0e44083b28.png",
     "static/media/glasses.png": "/mreiss/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/mreiss/index.html",
-    "main.83beda0f.css.map": "/mreiss/static/css/main.83beda0f.css.map",
-    "main.3f2fbbeb.js.map": "/mreiss/static/js/main.3f2fbbeb.js.map"
+    "main.81662c73.css.map": "/mreiss/static/css/main.81662c73.css.map",
+    "main.6145c0c0.js.map": "/mreiss/static/js/main.6145c0c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.83beda0f.css",
-    "static/js/main.3f2fbbeb.js"
+    "static/css/main.81662c73.css",
+    "static/js/main.6145c0c0.js"
   ]
 }
