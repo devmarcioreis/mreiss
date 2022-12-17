@@ -1,0 +1,12 @@
+.footer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: -.5rem -3.5rem;
+    margin-block-start: 7rem;
+    margin-block-end: 2rem;
+}
+.footer-icons {
+    font-size: 2rem;
+    color: var(--first-color);
+}
