@@ -2,11 +2,26 @@
     position: relative;
     display: flex;
     align-items: center;
-    margin: -.5rem -3.5rem;
     margin-block-start: 7rem;
-    margin-block-end: 2rem;
+}
+.footer-content {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: .5rem;
+    width: 100%;
+    margin-block-start: 4rem;
 }
 .footer-icons {
+    display: flex;
+    gap: 2rem;
     font-size: 2rem;
     color: var(--first-color);
+    margin-block-end: 2rem;
+    cursor: pointer;
+}
+.footer-icons>:hover {
+    color: var(--orange-color);
 }
