@@ -5,7 +5,7 @@ useState<br>
 useContext<br>
 iconScout<br>
 react-icons<br>
-Framer Motion<br>
+Framer-Motion<br>
 React smooth scroll<br>
 css3<br>
 Email js<br>
