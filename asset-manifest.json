@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mreiss/static/css/main.00345c23.css",
-    "main.js": "/mreiss/static/js/main.f3707d49.js",
+    "main.js": "/mreiss/static/js/main.0c8982fc.js",
     "static/media/space.png": "/mreiss/static/media/space.5f92b53c4067833b282a.png",
     "static/media/profile.png": "/mreiss/static/media/profile.775c5f9c66e075bcf103.png",
     "static/media/music.jpg": "/mreiss/static/media/music.8b9e3dfa24ba0e09340f.jpg",
@@ -20,10 +20,10 @@
     "static/media/glasses.png": "/mreiss/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/mreiss/index.html",
     "main.00345c23.css.map": "/mreiss/static/css/main.00345c23.css.map",
-    "main.f3707d49.js.map": "/mreiss/static/js/main.f3707d49.js.map"
+    "main.0c8982fc.js.map": "/mreiss/static/js/main.0c8982fc.js.map"
   },
   "entrypoints": [
     "static/css/main.00345c23.css",
-    "static/js/main.f3707d49.js"
+    "static/js/main.0c8982fc.js"
   ]
 }
