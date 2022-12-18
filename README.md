@@ -9,6 +9,7 @@ Framer-Motion<br>
 React smooth scroll<br>
 css3<br>
 Email js<br>
+React-scroll<br>
 Swiper js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
